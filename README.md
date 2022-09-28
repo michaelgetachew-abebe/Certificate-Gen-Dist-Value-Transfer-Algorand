@@ -25,7 +25,9 @@ The major objective behind this types of systems based on the blockchain technol
 
 ## Frontend
 ### Frontend Design Concept
-
+The client-side application that the browser fetches from the host server and renders to the user is also called the UI. The UI of a webpage, application, or dapp is the space where user interactions occur. The main objective of a UI is to facilitate a seamless UX, which is achieved by making the interface intuitive and easy to navigate.
+Therefore due to time constraints I have decided to make the front end of the application very simple such that it can have two pages where a trainee can opt for an asset in this case the certificate and and admin page where the asset can be minted. 
+![Frontend-Design-Concept1](./img/Design.jpg)
 ## Contrbutors
 - Michael Getachew Abebe
 
