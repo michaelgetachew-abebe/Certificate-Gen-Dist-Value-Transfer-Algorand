@@ -1,0 +1,15 @@
+itxn_begin
+int acfg
+itxn_field TypeEnum
+txn Sender
+itxn_field ConfigAssetFreeze
+global CurrentApplicationAddress
+dup
+dup
+itxn_field ConfigAssetManager
+itxn_field ConfigAssetReserve
+itxn_field ConfigAssetClawback
+//first asset in the assets array
+txn Assets 0
+itxn_field ConfigAsset
+itxn_submit
