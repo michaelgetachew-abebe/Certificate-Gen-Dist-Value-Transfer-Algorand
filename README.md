@@ -41,7 +41,7 @@ Please make sure to update tests as appropriate.
 [forks-url]: https://github.com/michaelgetachew-abebe/Certificate-Gen-Dist-Value-Transfer-Algorand/network/members
 [stars-shield]: https://img.shields.io/github/stars/michaelgetachew-abebe/Certificate-Gen-Dist-Value-Transfer-Algorand.svg?style=for-the-badge
 [stars-url]: https://github.com/michaelgetachew-abebe/Certificate-Gen-Dist-Value-Transfer-Algorand/stargazers
-[issues-shield]: https://img.shields.io/github/issues/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/michaelgetachew-abebe/Certificate-Gen-Dist-Value-Transfer-Algorand.svg?style=for-the-badge
 [issues-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/issues
 [license-shield]: https://img.shields.io/github/license/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs.svg?style=for-the-badge
 [license-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/blob/master/LICENSE.txt
