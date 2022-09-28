@@ -11,6 +11,7 @@
 - [About](#about)
 - [Objectives](#objectives)
 - [Frontend](#Frontend)
+- [Backend](#Backend)
 - [Contrbutors](#contrbutors)
 - [Contributing](#contributing)
 - [License](#license)
@@ -27,7 +28,15 @@ The major objective behind this types of systems based on the blockchain technol
 ### Frontend Design Concept
 The client-side application that the browser fetches from the host server and renders to the user is also called the UI. The UI of a webpage, application, or dapp is the space where user interactions occur. The main objective of a UI is to facilitate a seamless UX, which is achieved by making the interface intuitive and easy to navigate.
 Therefore due to time constraints I have decided to make the front end of the application very simple such that it can have two pages where a trainee can opt for an asset in this case the certificate and and admin page where the asset can be minted. 
+
 ![Frontend-Design-Concept1](./img/Design.jpg)
+## Backend
+### Backend Design Concept
+The functions of databases and other centralized storage locations in web 2 are acquired from the blockchain which enables transactions and applications to be distributed over the network of computers. More specifically, the blockchain acts as a “state machine” which maintains the program state and stability through validating the predefined rules. The state machine is spread between all the participants of a blockchain network and validation is archived through the consensus about program stability.
+In this project the backend logic is implemented via smart contracts that will be later deployed to shared state machines(blockchain network). So the backend resides in a peer-to-peer network which consists of individual nodes in the network. The design concept is better in the figure below
+
+![Backend-Design-Concept](./img/Backdesign.png)
+
 ## Contrbutors
 - Michael Getachew Abebe
 
