@@ -37,7 +37,7 @@ Please make sure to update tests as appropriate.
 
 [contributors-shield]: https://img.shields.io/github/contributors/michaelgetachew-abebe/Certificate-Gen-Dist-Value-Transfer-Algorand.svg?style=for-the-badge
 [contributors-url]: https://github.com/michaelgetachew-abebe/Certificate-Gen-Dist-Value-Transfer-Algorand/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/michaelgetachew-abebe/Certificate-Gen-Dist-Value-Transfer-Algorand?style=for-the-badge
 [forks-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/network/members
 [stars-shield]: https://img.shields.io/github/stars/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs.svg?style=for-the-badge
 [stars-url]: https://github.com/michaelgetachew-abebe/Scalable-Data-Warehouse-UAVs/stargazers
