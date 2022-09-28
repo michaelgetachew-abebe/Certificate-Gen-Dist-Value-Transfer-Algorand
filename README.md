@@ -10,7 +10,7 @@
 <!-- Table of contents -->
 - [About](#about)
 - [Objectives](#objectives)
-- [Frontend](#Frontend Design Concept)
+- [Frontend](#Frontend)
 - [Contrbutors](#contrbutors)
 - [Contributing](#contributing)
 - [License](#license)
@@ -22,7 +22,9 @@ To systematically tackle this problem 10 Academy has partnered with Algorand to 
 
 ## Objectives
 The major objective behind this types of systems based on the blockchain technology is to enble trust minimizaed and user controlled internet. This project exploits the immutable feature of the blockchain technology to elimainate fraudulent certificate possesions in academic systems. This system will enable 10 Academy to give an NFT based certificate for its trainees after the successful completion of the training program where any one can vertify whether the certificates were obtained legally.
-## Frontend Design Concept
+
+## Frontend
+### Frontend Design Concept
 
 ## Contrbutors
 - Michael Getachew Abebe
