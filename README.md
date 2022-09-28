@@ -30,6 +30,7 @@ The client-side application that the browser fetches from the host server and re
 Therefore due to time constraints I have decided to make the front end of the application very simple such that it can have two pages where a trainee can opt for an asset in this case the certificate and and admin page where the asset can be minted. 
 
 ![Frontend-Design-Concept1](./img/Design.jpg)
+
 ## Backend
 ### Backend Design Concept
 The functions of databases and other centralized storage locations in web 2 are acquired from the blockchain which enables transactions and applications to be distributed over the network of computers. More specifically, the blockchain acts as a “state machine” which maintains the program state and stability through validating the predefined rules. The state machine is spread between all the participants of a blockchain network and validation is archived through the consensus about program stability.
